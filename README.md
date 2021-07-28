@@ -1,3 +1,3 @@
-- Hi, I’m @titfortat265358 (I know, its not the best username xd)
+- Hi, I’m @titfortat265358
 - I’m currently doing an internship at the University of Bern (Switzerland)
-- I’m currently learning Angular
+- I’m currently learning Angular and Node
