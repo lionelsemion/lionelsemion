@@ -1,3 +1,1 @@
 - Hi, I’m @lionelsemion
-- I’m currently doing an internship at the University of Bern (Switzerland)
-- I’m currently learning Angular and Node
