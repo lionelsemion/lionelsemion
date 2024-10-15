@@ -1,4 +1,4 @@
-Hi, I’m Lionel. I'm currently studying computer science at the University of Bern. 
+Hi, my name is Lionel. I'm currently studying computer science at the University of Bern. 
 
 I like coding in my free time (though most often the silly kind, like simulating digital circuits in the form of ASCII-art (ASCIIrcuit))
 
@@ -21,10 +21,10 @@ Kinda cool stuff:
 
 "Games":
 - [A kinda-3D platformer](https://scratch.mit.edu/projects/416162988/) (use WASD)
-- [A somewhat addictive game with music I was probably not allowed to use](https://scratch.mit.edu/projects/315981172/fullscreen/)
-- [My biggest game](https://scratch.mit.edu/projects/224536034/) (You have to build cities and do quantum computing and like hunt ghosts at some point (???))
+- [A somewhat addictive game](https://scratch.mit.edu/projects/315981172/fullscreen/) (with music I was probably not allowed to use)
 
 Reeeeally old stuff:
 - [Colorful something](https://scratch.mit.edu/projects/228527996/)
 - [Prime numbers something](https://scratch.mit.edu/projects/149259344/fullscreen/)
 - [Zombie apocalypse but you are on the side of the zombies](https://scratch.mit.edu/projects/157230875/)
+- [My "biggest" "game"](https://scratch.mit.edu/projects/224536034/) (You have to build cities and do quantum computing and like hunt ghosts at some point (???))
