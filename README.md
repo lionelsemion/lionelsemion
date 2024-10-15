@@ -5,8 +5,9 @@ I like coding in my free time (though most often the silly kind, like simulating
 Other stuff I've coded up in the last many years include:
 - A program that draws all the RGB colors on a single image (looks really cool)
 - A genetic algorithm that evolves a canvas into a given image by drawing random lines onto it (sounds more complicated than it really is)
-- A neural network that can guess which party a given Swiss politician is a member of (surprisingly accurate)
+- [A neural network that can guess which party a given Swiss politician is a member of (surprisingly accurate)](https://github.com/lionelsemion/party-prediction)
 - A mess of a Python script that can accurately calculate your heart and respiration rate in sleep by doing some cursed numpy stuff to gyroscope data, gathered by the phone you are supposed to tape onto your chest (my Maturaarbeit (final project in highschool (in Switzerland)))
+- And lots more (I have only just started to sort through all the things I've created (but never made open (because most of it is really messy)))
 
 (Links will be added once I've uploaded the projects)
 
