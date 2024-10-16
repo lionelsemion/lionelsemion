@@ -1,6 +1,6 @@
 Hi, my name is Lionel. I'm currently studying computer science at the University of Bern. 
 
-I like coding in my free time (though most often the silly kind, like simulating digital circuits in the form of ASCII-art (ASCIIrcuit))
+I like coding in my free time (though most often the silly kind, like [simulating digital circuits in the form of ASCII-art (ASCIIrcuit)](https://github.com/lionelsemion/asciircuit))
 
 Other stuff I've coded up in the last many years include:
 - A program that draws all the RGB colors on a single image (looks really cool)
