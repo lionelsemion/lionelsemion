@@ -1,6 +1,6 @@
 Hi, my name is Lionel. I'm currently studying computer science at the University of Bern. 
 
-I like coding in my free time (though most often the silly kind, like [simulating digital circuits in the form of ASCII-art (ASCIIrcuit)](https://github.com/lionelsemion/asciircuit)). Everything I create is under the [GNU General Public License](https://de.wikipedia.org/wiki/GNU_General_Public_License), so you are free to use my code for everything you want, as long as you credit me and use the same license (or a compatible one) for your project. Also [being open is really cool](https://www.youtube.com/watch?v=MJzV0CX0q8o).
+I like coding in my free time (though most often the silly kind, like [simulating digital circuits in the form of ASCII-art (ASCIIrcuit)](https://github.com/lionelsemion/asciircuit)). All my personal projects are under the [GNU General Public License](https://de.wikipedia.org/wiki/GNU_General_Public_License), so you are free to use my code for everything you want, as long as you credit me and use the same license (or a compatible one) for your project. Also [being open is really cool](https://www.youtube.com/watch?v=MJzV0CX0q8o).
 
 Stuff I've coded up in the last many years include:
 - A program that draws all the RGB colors on a single image (looks really cool)
